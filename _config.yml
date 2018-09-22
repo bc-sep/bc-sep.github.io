@@ -26,7 +26,6 @@ title: 'My website'
 description: 'This is my new website'
 permalink: pretty
 logo: "/assets/bcsep_logo.png"
-email: "h.engstrom@psych.ubc.ca"
 
 # Pagination
 paginate: 5
