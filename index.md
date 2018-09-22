@@ -1,7 +1,7 @@
 ---
 title: Welcome to my website
 layout: page
-feature_image: "/assets/long_logo_notext.png"
+feature_image: "{{ site.url }}/assets/long_logo_notext.png"
 feature_text: |
   ## <span style="color:antiquewhite;">BC Scientists for Evidence-Based Policies</span>.
 ---
