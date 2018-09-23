@@ -1,5 +1,4 @@
 ---
-title: Thanks for visiting our website!
 layout: page
 feature_image: "{{ site.url }}/assets/long_logo_notext.png"
 feature_text: |
