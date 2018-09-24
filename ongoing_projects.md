@@ -6,10 +6,8 @@ We are currently collaborating with the Drug Policy Alliance to create a free we
 
 <img src="\assets\webinar.jpg">
 
-<p>In this webinar, we present information about how to visualize and present data. To avoid overwhelming people with technical details, in the presentation, we focus on big-picture principles. However, if you are interested in technical details of how to graph in R and in Excel, please see the documents below for an introduction to both!</p>
+<p>In this webinar, we present information about how to visualize and present data. To avoid overwhelming people with technical details, in the presentation, we focus on big-picture principles. However, if you are interested in technical details of how to graph in R and in Excel, please see <a href="{{site.url}}/assets/How-to-Graph.pdf">this document for an introduction to graphing in R</a>, and <a href="{{site.url}}/assets/How-to-Make-a-Graph=in-Excel.pdf">this document for an introduction to graphing in Excel</a>.
 
-<img src="\assets\How-to-Graph.pdf">
 
-<a href="{{site.url}}/assets/How-to-Graph.pdf">Link to new new pdf</a>
 
 
