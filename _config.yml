@@ -95,7 +95,7 @@ navigation_header:
   Contact Us: /contact/
  
 navigation_footer:
-  Theme created by David Darnes: https://darn.es
+  Theme inspired by Alembic, created by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
