@@ -75,9 +75,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "BC SEP" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/bcsep_logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "BC Scientists for Evidence-Based Policies" # Site description and default description, also used in jekyll-seo-tag
 url: "https://bc-sep.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/bc-sep/bc-sep.github.io"
@@ -95,7 +95,7 @@ navigation_header:
   Contact Us: /contact/
  
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Theme created by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
