@@ -10,6 +10,6 @@ We are currently collaborating with the Drug Policy Alliance to create a free we
 
 <img src="\assets\How-to-Graph.pdf">
 
-<a href="bc-sep.ca/assets/How-to-Graph.pdf">Link to pdf</a>
+<a href="bc-sep.ca/assets/How-to-Graph.pdf">Link to new pdf</a>
 
 
