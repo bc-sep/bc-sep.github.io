@@ -16,12 +16,14 @@ layout: page
     <p>Charlotte Roddick is a second-year MA student in health psychology at the University of British Columbia. Her research examines social and emotional influences on peoples’ health, such as how loneliness contributes to cardiovascular disease. As a member of BC SEP, she is committed to helping make scientific data more accessible to non-scientists and to applying research-based evidence toward the improvement and development of policies, particularly those relating to mental health and economic inequality. 
 </p>
     </div>  
+    
 </div>
      <div>
         <img src="/assets/bita_photo.jpg" style="float:left; padding:10% 5%;"/>
     <p>Bita Zareian is a MA student in clinical psychology at the University of British Columbia. She is interested in investigating biological and social variables that contribute to development and maintenance of depression. In BC SEP, she is interested in using scientific data to help improve mental health-related policies. 
 </p>
     </div>
+    
 </div>
      <div>
         <img src="/assets/gordon_photo.png" style="float:left; padding:10% 5%;"/>
