@@ -4,3 +4,8 @@ styles: true
 ---
 
 @import "alembic";
+
+.header .feature {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
