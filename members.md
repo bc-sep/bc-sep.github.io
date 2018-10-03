@@ -18,7 +18,15 @@ layout: page
           </div>
     <div>
         <img src="/assets/gordon_photo.png" style="float:left; padding:3% 5% 0% 0%; max-height:500px; max-width:50%;"/>
-    <p>Gordon Heltzel is a second-year MA Psychology student at the University of British Columbia. He studies how moral, religious, and political beliefs merge with emotions to influence social interactions. As a part of BC SEP, he wants to help policymakers use moral psychology to craft more persuasive policy arguments, and he is especially passionate about protecting the environment. 
+    <p>Gordon Heltzel is a second-year MA Psychology student at the University of British Columbia. He studies how moral, religious, and political beliefs merge with emotions to influence social interactions. As a part of BC SEP, he wants to help policymakers use moral psychology to craft more persuasive policy arguments, and he is especially passionate about protecting the environment. </p>
+         </div>
+   <div>
+        <img src="/assets/KateB_photo.jpg" style="float:left; padding:3% 5% 0% 0%; max-height:500px; max-width:50%;"/>
+    <p>Katharina (Kate) Block is a Social Psychology researcher and PhD candidate at UBC. She is broadly interested in how stereotypes about the social groups we are members of influence how we think about ourselves (our self-concept) and what we do with our lives. She is especially interested in how gender stereotypes and biases shape the kinds of values men and women hold and the kinds of careers that they pursue. She is also interested in how children learn stereotypes and how that negatively affects them. Find out more about Kate at https://katharinablock.wordpress.com/ </p>
+    </div>
+<div>
+        <img src="/assets/Lucy_photo.jpg" style="float:left; padding:3% 5% 0% 0%; max-height:500px; max-width:50%;"/>
+    <p>Lucy De Souza is a second year graduate student in social psychology at the University of British Columbia. Drawing on intersectional and Black feminist theory, she studies how multiple social identities may distinctively shape women’s experiences in male-dominated fields. With BC SEP, she is most interested in working with organizations that focus on issues that predominately affect minority women. </p>
 </p>
     </div>
 </div>
